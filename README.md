@@ -7,6 +7,7 @@ Create a Mac OSX application (`.app`) froe any `.jar` file. Finally be able to v
 
        chmod a+x Contents/MacOS/launcher.sh
 
+
 2. rename everything and place your icon and jar application
   
   - rename the app itself
