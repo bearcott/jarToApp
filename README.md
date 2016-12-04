@@ -4,7 +4,7 @@ Create a Mac OSX application (`.app`) froe any `.jar` file. Finally be able to v
 
 1. make sure the launcher script has the proper permissions to run. change into the app's root directory then use:
 
-`chmod a+x Contents/MacOS/launcher.sh`
+  `chmod a+x Contents/MacOS/launcher.sh`
 
 2. rename everything and place your icon and jar application
   
