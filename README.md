@@ -1,4 +1,5 @@
-#Jar To App
+Jar To App
+----------
 
 Create a Mac OSX application (`.app`) froe any `.jar` file. Finally be able to view your Java apps with an icon and display it proudly in your applications folder. This project contains a basic template to bundle your jar file into an application in a few easy steps.
 
